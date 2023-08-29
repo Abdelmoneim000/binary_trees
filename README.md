@@ -56,7 +56,7 @@
 
 ## All completed Tasks :
 
-   - [ ] 0. New node
+   - [x] 0. New node
 
    - [ ] 1. Insert left
 
