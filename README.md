@@ -70,7 +70,7 @@
 
    - [x] 6. Pre-order traversal
 
-   - [ ] 7. In-order traversal
+   - [x] 7. In-order traversal
 
    - [ ] 8. Post-order traversal
 
