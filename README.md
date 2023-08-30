@@ -60,9 +60,9 @@
 
    - [x] 1. Insert left
 
-   - [ ] 2. Insert right
+   - [x] 2. Insert right
 
-   - [ ] 3. Delete
+   - [x] 3. Delete
 
    - [ ] 4. Is leaf
 
