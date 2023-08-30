@@ -66,7 +66,7 @@
 
    - [x] 4. Is leaf
 
-   - [ ] 5. Is root
+   - [x] 5. Is root
 
    - [ ] 6. Pre-order traversal
 
