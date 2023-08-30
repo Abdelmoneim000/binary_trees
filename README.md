@@ -72,9 +72,9 @@
 
    - [x] 7. In-order traversal
 
-   - [ ] 8. Post-order traversal
+   - [x] 8. Post-order traversal
 
-   - [ ] 9. Height
+   - [x] 9. Height
 
    - [ ] 10. Depth
 
