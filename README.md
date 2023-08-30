@@ -58,7 +58,7 @@
 
    - [x] 0. New node
 
-   - [ ] 1. Insert left
+   - [x] 1. Insert left
 
    - [ ] 2. Insert right
 
