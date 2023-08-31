@@ -76,7 +76,7 @@
 
    - [x] 9. Height
 
-   - [ ] 10. Depth
+   - [x] 10. Depth
 
    - [ ] 11. Size
 
