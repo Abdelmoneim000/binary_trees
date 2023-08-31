@@ -86,7 +86,7 @@
 
    - [x] 14. Balance factor
 
-   - [ ] 15. Is full
+   - [x] 15. Is full
 
    - [ ] 16. Is perfect
 
