@@ -78,9 +78,9 @@
 
    - [x] 10. Depth
 
-   - [ ] 11. Size
+   - [x] 11. Size
 
-   - [ ] 12. Leaves
+   - [x] 12. Leaves
 
    - [ ] 13. Nodes
 
