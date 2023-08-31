@@ -84,7 +84,7 @@
 
    - [x] 13. Nodes
 
-   - [ ] 14. Balance factor
+   - [x] 14. Balance factor
 
    - [ ] 15. Is full
 
